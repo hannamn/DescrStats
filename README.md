@@ -7,9 +7,11 @@ This repository contains the Python module ‘DescrStats.py‘, which defines th
      column with each row representing an observation.
 
 ‘‘‘python
+
 import DescStats as ds
 
 ds.DescrStats(‘datafile.txt’)
+
 ‘‘‘
 
 We have placed a sample data file (‘datafile.txt‘) in this repository. You can use
